@@ -1,0 +1,8 @@
+-> JavaScript is object-oriented language, it isn't a class-based language—it's a prototype-based language. 
+
+object-oriented language : - In a class-based language, you create objects based on predefined blueprints called "classes."  Objects are instances of classes, so they inherit the properties and behaviors defined in their class.
+
+prototype-based language : - In a prototype-based language, there are no traditional classes. Instead, objects are created from other existing objects, which act as prototypes. Think of it as cloning or copying an existing object and then adding or modifying its features.
+
+---------------------------------------------
+-> JavaScript classes are a special type of function. we have class keyword to create classes but it was introduced in latest version ES6 but still JS ia a prototype based object oriented language.
